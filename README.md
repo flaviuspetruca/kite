@@ -1,4 +1,4 @@
-# Kite ATTA SYSTEMS
+# Kite
 Project created by Flavius Petruca
 
 ## Technologies
